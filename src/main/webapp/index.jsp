@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Ranjit Swain | DevOps Class</title>
+        <title>| DevOps Class</title>
     </head>
     <body background: url(images/maple.jpeg);>
         <form method="post" action="login.jsp">
